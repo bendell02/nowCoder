@@ -1,3 +1,3 @@
 # nowCoder
 
-save some codes of programming problem at nowcoder.com
+save some codes of programming problems at nowcoder.com
